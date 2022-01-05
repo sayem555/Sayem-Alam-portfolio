@@ -1,5 +1,5 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins';
 }
 h1{
     font-size: 50px;
@@ -7,7 +7,7 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.flexiable-container{
     display: flex;
     margin-bottom: 100px;
 }
